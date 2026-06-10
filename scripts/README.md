@@ -2,10 +2,10 @@
 
 Small tools written during labs, CTFs, and practice sessions.
 
-## Recon
+<!-- ## Recon
 | Script | Language | What It Does |
 |---|---|---|
-| recon.py | Python | Basic recon — nmap + whois + HTTP headers |
+| recon.py | Python | Basic recon — nmap + whois + HTTP headers | -->
 
 ## Forensics
 | Script | Language | What It Does |
