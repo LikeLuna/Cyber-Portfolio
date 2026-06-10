@@ -13,9 +13,9 @@ recommendations.
 
 | Room / Challenge | Platform | Category | Key Topics | Writeup |
 |---|---|---|---|---|
-| ContAInment Lab | TryHackMe | IR / Forensics | PCAP analysis, AI prompt injection, ransomware | [Medium](your-link) |
+| ContAInment Lab | TryHackMe | IR / Forensics | PCAP analysis, AI prompt injection, ransomware | [Medium]([your-link](https://medium.com/@wolke1774/containment-lab-tryhackme-walkthrough-megha-acharya-1cb943fdb158)) |
 
-*More added weekly — follow along on [Medium](https://medium.com/@wolke1774/containment-lab-tryhackme-walkthrough-megha-acharya-1cb943fdb158)*
+*More added weekly — follow along on [Medium](https://medium.com/@wolke1774/)*
 
 ---
 
